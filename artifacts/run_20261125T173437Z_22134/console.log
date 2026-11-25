@@ -1,0 +1,22 @@
+Backend: CUDA
+GPU: NVIDIA GeForce RTX 3070 Laptop GPU
+Images: 256
+Dimensions: 256x256
+Batch capacity: 16
+Batch 0: validated 16 images
+Batch 1: validated 16 images
+Batch 2: validated 16 images
+Batch 3: validated 16 images
+Batch 4: validated 16 images
+Batch 5: validated 16 images
+Batch 6: validated 16 images
+Batch 7: validated 16 images
+Batch 8: validated 16 images
+Batch 9: validated 16 images
+Batch 10: validated 16 images
+Batch 11: validated 16 images
+Batch 12: validated 16 images
+Batch 13: validated 16 images
+Batch 14: validated 16 images
+Batch 15: validated 16 images
+PASS: all 256 images matched the CPU reference. Evidence: "artifacts/run_20261125T173437Z_22134"

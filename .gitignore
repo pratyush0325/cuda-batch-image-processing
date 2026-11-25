@@ -1,0 +1,5 @@
+/build/
+/data/
+__pycache__/
+*.pyc
+# Keep artifacts/ tracked: the rubric requires actual execution evidence.

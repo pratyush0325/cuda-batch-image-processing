@@ -1,0 +1,74 @@
+[
+  {
+    "path": ".clang-format",
+    "sha256": "4e90d95a6feefc78d1890fc54a422d2fca7695883ed662eafe38a7ac83ed060c"
+  },
+  {
+    "path": "LICENSE",
+    "sha256": "0017dbf1f59f7db8e1ceeb2f9d79fe7f238e6d2d5fe5d5847d7bd86056c3ea34"
+  },
+  {
+    "path": "Makefile",
+    "sha256": "283dd67ff683058bec16cc50ed53faeba992b3511e6e3eb98952b1101c75a5e5"
+  },
+  {
+    "path": "PROJECT_DESCRIPTION.md",
+    "sha256": "13768dab13f13859619d7d2bd55f4592b4d191546f6aa0d2617513699ab05f79"
+  },
+  {
+    "path": "README.md",
+    "sha256": "31a2569e13c32c4ad949c2252ac7cd39db66e4e24fe5837f856a9fe12320bbf5"
+  },
+  {
+    "path": "include/gpu_pipeline.h",
+    "sha256": "2b05cebda0ba79058df41c2a4e511e3d0d10b7dd1c1893444d8faf56f766b87d"
+  },
+  {
+    "path": "include/image.h",
+    "sha256": "01d2defb041623c1b416d686eb6c1123557c6a43ac21cd4ad12819aeaaa0ed2c"
+  },
+  {
+    "path": "run.sh",
+    "sha256": "538a1489ef1578f2ea5804bb0a5c02e3a705f7cab265c0bdc2cb1906124f16b4"
+  },
+  {
+    "path": "src/cpu_reference.cc",
+    "sha256": "443d921bae9de79abd72a17a33c95bea1320246290da2b2abdd62c7183e69d6c"
+  },
+  {
+    "path": "src/gpu_pipeline.cu",
+    "sha256": "2e16457242fba09b7236c843454c1ac402221805ca58ca820bd5055ae1a9b9a6"
+  },
+  {
+    "path": "src/image.cc",
+    "sha256": "a4731fc863f43e328b078b89f951ab4b943762b6aadda314ef48342496cc4586"
+  },
+  {
+    "path": "src/main.cc",
+    "sha256": "853de5bb9b44b6a7885c8b4c0a4eecf260585f5af2c951cce6a6c34b6719feb3"
+  },
+  {
+    "path": "tests/cpu_tests.cc",
+    "sha256": "d41c9d2255ddb47c2a8711aa245940cd8bcb28d99ddb64639778d91b4d567c29"
+  },
+  {
+    "path": "tests/test_tools.py",
+    "sha256": "eb6ebc0916874f9572599d22be4633ba64ef8414a1f22cca23086170df72f7c7"
+  },
+  {
+    "path": "tools/build_report.py",
+    "sha256": "f6e6d299de0777bbed91e6cdc91001b2d8b145290f17a2ccb15fae9ad0281c00"
+  },
+  {
+    "path": "tools/check_environment.sh",
+    "sha256": "c08d0ca04ce68e62c4b52f404b2c77f54220beafbdaeb7dc8c4f1e3a0d26652f"
+  },
+  {
+    "path": "tools/generate_dataset.py",
+    "sha256": "63859c2613b7dbcde528c9182de7d671e0802ec0e950d7d29c69d1d6cbf7d8c3"
+  },
+  {
+    "path": "tools/image_utils.py",
+    "sha256": "cbd655e0602cbece3a7f3c2f1737699155b383281d004e1ff0a6328b7807461f"
+  }
+]
